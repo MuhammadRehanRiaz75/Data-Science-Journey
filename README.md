@@ -1,2 +1,2 @@
-# Data Science Journey
+# My Data Science Journey
 Let's learn Data Science
